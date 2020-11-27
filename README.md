@@ -1,4 +1,4 @@
-<div style="text-align: center"><h1>A NEW INTERPRETATION OF PISO FIRME PROGRAM'S EFFECTS</h1></div>
+<h1 align="center">A NEW INTERPRETATION OF PISO FIRME PROGRAM'S EFFECTS</h1>
 
 ### Abstract
 
@@ -51,12 +51,12 @@ After that, our idea is to implement a more powerful classifier, such as Random 
 - We use the SHAP TreeExplainer (<a href="https://shap.readthedocs.io/en/latest/generated/shap.TreeExplainer.html#shap.TreeExplainer">doc</a>) to visualize the results.
 
 <br />
-<div style="text-align: center">
+<p align="center">
     <img src='./summary_plot1.jpg' style="width: 600px;">
     <br />
     <b>Example: </b>
     <i>SHAP values plot for the outcome 'S_shcementfloor' - Random Forest</i>
-</div>
+</p>
 <br />
 
 
