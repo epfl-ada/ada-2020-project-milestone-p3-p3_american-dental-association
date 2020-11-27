@@ -100,9 +100,9 @@ ___
 ### Organization within the team
 
 - Francesco will focus on estimating the impact of the program on the new outcome variables in week 1. In week 2, he will take care of the decision tree and in week 3 he will be the person in charge to edit the video.
-- Giorgio will build the linear regression model in week 1 and will start to build the skeleton code (functions) to create the different Random Forest models for the week 2. In week 3 he will take care of setting up the data story webpage.
-- Amine in week 1 will focus on understanding if the obtained results are statistically significant. In week 2 he will try to explain in details what SHAP values are and, together with Francesco and Giorgio, he will interpret the week 2 results.
-- The report and the data story will be written by the entire team together.
+- Giorgio in week 1 will focus on understanding if the obtained results are statistically significant and will start to build the skeleton code (functions) to create the different Random Forest models for the week 2. In week 3 he will take care of setting up the data story webpage.
+- Amine will build the linear regression model in week 1. In week 2 he will try to explain in details what SHAP values are and, together with Francesco and Giorgio, he will interpret the week 2 results. 
+- The report and the data story will be written by the entire team together, with Amine (English mothertongue) that will do most of the work.
 
 ---
 
