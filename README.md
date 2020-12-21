@@ -110,8 +110,11 @@ ___
 
 We find the purpose of this extension interesting, but what about you? We would really love to have a feedback on our proposal.
 
-
-
+--
+## Contributions
+Giorgio: worked on the first question of this extension. Helped in answering the second question of the extension. Worked on the (unexpected) analysis of the fifth table, about the correlation between water and diseases. Worked on the structure of the website (HTML, CSS, JavaScript). Voice of the pitch.
+Francesco: worked on SHAP values (mathematical understanding) and on the second question of the extension. Helped in the analysis of the fifth table. Worked on the interactive plots in the data story (Plotly). Worked on the structure of the website. 
+Amine: worked on SHAP values (mathematical understanding) and LIME values (the entire subsection in the notebook). Helped in answering the second question of the extension. Helped in the analysis of the fifth table. Wrote the script for the video pitch.
 
 
 
